@@ -6,10 +6,10 @@ Have work experience as a security engineer.
 How to contact me : Just send me email to ga.satnv@gmail.com :e-mail:
 
 ## My tech stack
-<img src="/img/Go.png" alt="Skill" width="100">
-<img src="/img/Echo.png" alt="Skill" width="100">
-<img src="/img/sqlc.png" alt="Skill" width="100">
-<img src="/img/Docker.png" alt="Skill" width="100">
+<img style="position: relative;" src="/img/Go.png" alt="Skill" width="50">
+<img style="position: relative;" src="/img/Echo.png" alt="Skill" width="50">
+<img style="position: relative;" src="/img/sqlc.png" alt="Skill" width="50">
+<img style="position: relative;" src="/img/Docker.png" alt="Skill" width="50">
 
 ![Skill](/img/PostgreSQL.png)
 ![Skill](/img/SQL.png)
