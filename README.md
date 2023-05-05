@@ -1,6 +1,6 @@
 ## Hi there :wave:
 
-I'm Beginner Go Developer. :mount_fuji: 
+I'm Beginner Python/Go Developer. :mount_fuji: 
 
 Have work experience as a security engineer.
 
