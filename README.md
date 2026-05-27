@@ -1,13 +1,6 @@
 ## Hi there :wave:
-
-I'm Beginner Python/Go Developer. :mount_fuji: 
-
-Have work experience as a security engineer.
-
-How to contact me : Just send me email to ga.satnv@gmail.com :e-mail:
-
-I'm studying : Master's Degree in Information Security
-
+I'm Senior DevOps in BigData. :mount_fuji: Also have work experience as a security engineer.
+How to contact me : Just send me message on ![linkedin](https://www.linkedin.com/in/galazat/) or email to ga.satnv@gmail.com :e-mail:
 
 ## My tech stack
 ![](https://img.shields.io/badge/Go-CC342D?style=flat&color=blue&logo=go&logoColor=white)
@@ -18,7 +11,6 @@ I'm studying : Master's Degree in Information Security
 ![](https://img.shields.io/badge/SQL-CC342D?style=flat&color=4964ab&logo=echo&logoColor=white)
 ![](https://img.shields.io/badge/TCP/IP-CC342D?style=flat&color=9b9c9e&logo=echo&logoColor=white)
 ![](https://img.shields.io/badge/Linux-CC342D?style=flat&color=9b9c9e&logo=echo&logoColor=white)
-![](https://img.shields.io/badge/ELK%20stack-CC342D?style=flat&color=04888c&logo=echo&logoColor=white)
 
 ## Github Stats
 ![Metrics](/github-metrics.svg)
