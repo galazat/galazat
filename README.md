@@ -12,6 +12,3 @@ How to contact me : Just send me message on [linkedin](https://www.linkedin.com/
 ![](https://img.shields.io/badge/SQL-CC342D?style=flat&color=4964ab&logo=echo&logoColor=white)
 ![](https://img.shields.io/badge/TCP/IP-CC342D?style=flat&color=9b9c9e&logo=echo&logoColor=white)
 ![](https://img.shields.io/badge/Linux-CC342D?style=flat&color=9b9c9e&logo=echo&logoColor=white)
-
-## Github Stats
-![Metrics](/github-metrics.svg)
